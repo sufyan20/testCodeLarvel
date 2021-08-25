@@ -1,3 +1,29 @@
+============================= COMMENTS =====================================
+The only good thing about code is it's using repositories pattern rest Code is very awful and hard to read.
+Code should be in small funtions with try and catch statements.
+There are a lot of if else statements which is not a very good way to code.
+Most functions are too big when i code i make sure a function should not exceed 35 to 40 lines.
+It's very hard to read this code i can't refactor it in short time.
+We should query DB instead calculation on php side.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Choose ONE of the following tasks.
 Please do not invest more than 2-4 hours on this.
 Upload your results to a Github repo, for easier sharing and reviewing.
